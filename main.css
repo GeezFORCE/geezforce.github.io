@@ -1,0 +1,50 @@
+body{
+    background: black;
+    color: white;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+a{
+    color:white;
+    text-decoration: dashed;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+#man-sign-left{
+    float: left;
+    text-align: left;
+    width: 25%;
+}
+
+#man-page-heading{
+    width: 50%;
+    text-align: center;
+    float: left;
+    font-weight: 200;
+}
+
+#man-sign-right{
+    text-align: right;
+    float: right;
+    width: 25%;
+}
+
+#description{
+    padding-left: 5%;
+    width: 100%;
+    text-align: left;
+}
+
+#description{
+    padding-left: 4%;
+    width: 100%;
+    text-align: left;
+}
