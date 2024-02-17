@@ -1,5 +1,5 @@
 +++
-title = 'MacBook : What I love and What I hate'
+title = 'MacBooks 💻 : What I love and What I hate'
 date = 2024-02-17T15:27:15+05:30
 draft = true
 description = 'A post on what I like and dislike in Macbooks'
