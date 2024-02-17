@@ -1,7 +1,7 @@
 +++
 title = 'MacBooks 💻 : What I love and What I hate'
 date = 2024-02-17T15:27:15+05:30
-draft = true
+draft = false
 description = 'A post on what I like and dislike in Macbooks'
 tags = ['technology', 'apple', 'mac', 'mac-os']
 toc = true
