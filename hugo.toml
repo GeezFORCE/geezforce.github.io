@@ -73,7 +73,7 @@ summaryLength = 30  # number of words for article summaries
     searchMenuLink = false  # add a search link to the navigation menu; requires enableSearch
     mobileHamburgerNav = false  # alternative hamburger menu layout for the main nav menu when screen is small
 
-    enableFeatured = false  # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
+    enableFeatured = true  # enable a particular view for articles marked as featured (featured: true in the article frontmatter)
 
     underlineTitleLinks = false  # show an underline also for links that are titles
 

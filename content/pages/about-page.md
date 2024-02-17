@@ -1,7 +1,6 @@
 +++
 title = 'About'
 date = 2024-02-17T13:52:41+05:30
-draft = true
 showDate = false
 +++
 
@@ -12,5 +11,4 @@ I am C G Giridhar and I'm a developer 🧑🏻‍💻. I got my Bachelors degree
 
 I am currently working as a Senior Applications Engineer at [Oracle™](https://www.oracle.com). I am one of the core developers of [Oracle B2B](https://www.oracle.com/erp/b2b/).
 
-I am a huge fan of Libre Software and a Linux enthusiast. 
-
+I am a huge fan of Libre Software and a Linux enthusiast.
