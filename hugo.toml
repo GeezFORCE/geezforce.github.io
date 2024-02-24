@@ -1,7 +1,7 @@
 baseURL = 'https://geezforce.github.io/'
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Giridhar's Dev Log"
+title = "Giri's Logs"
 theme = "hugo-ficurinia"
 
 # this will be included in the footer after the current year the site is last
