@@ -107,20 +107,20 @@ cardView = true
 showRSS = false
 
 # Social links
- [[social]]
- name = "GitHub"
- icon = "github"
- url = "https://github.com/geezforce"
+# [[social]]
+# name = "GitHub"
+# icon = "github"
+# url = "https://github.com/geezforce"
 
  [[social]]
  name = "Email"
  icon = "email"
  url = "mailto:girigov39@gmail.com"
 
-[[social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/c-g-giridhar-887b00173/"
+#[[social]]
+#name = "LinkedIn"
+#icon = "linkedin"
+#url = "https://www.linkedin.com/in/c-g-giridhar-887b00173/"
 
 [[social]]
 name = "Xing"
