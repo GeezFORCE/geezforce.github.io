@@ -5,8 +5,7 @@ draft = false
 description = 'A post on what I like and dislike in Macbooks'
 tags = ['technology', 'apple', 'mac', 'mac-os']
 toc = true
-image = "/images/my-gripes-with-mac-os/wesson-wang-y0_vFxOHayg-unsplash-large.avif"
-imageCaption = "Photo by [Wesson Wang](https://unsplash.com/@wesson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/macbook-y0_vFxOHayg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
+coverImg = "wesson-wang-y0_vFxOHayg-unsplash-large.jpeg"
 +++
 
 For over two and a half years now, I have been exclusively using MacBooks. For work, I have got a MacBook Pro (13 In, Intel,2020) and very recently for personal usecases, I have purchased a Macbook Air (13 In, M2, 2022). Here are my thoughts on how MacBooks and MacOS in general fared for my uses.
@@ -45,13 +44,13 @@ The biggest gripe I have with Macs is the software. Mac OS is **pretty bad**. It
 
 Window Management of Mac OS is the worst that I have ever seen. You close an app, it is not really gone. You need to quit the app to really make it go away. If I maximize a window, it ends up in the last virtual desktop. Nobody knows why. If I want to switch (alt-tab) between different apps especially across different virtual desktops, it is a pain. There is no great way to snap apps. Apps like rectangle make it better but still I expect it to be part of the kit. Really what exactly is this?
 
-![horrible-snap-options-on-mac](/images/my-gripes-with-mac-os/maximize-horror.avif)
+![Image](maximize-horror.jpeg)
 
 ### Freedom
 
 Mac OS is extremely restrictive. Even though there are ways around it, it treats you like a kid in a candy store. This prompt summarizes my thoughts exactly.
 
-![horrible-snap-options-on-mac](/images/my-gripes-with-mac-os/firefox-download-prompt.avif)
+![horrible-snap-options-on-mac](firefox-download-prompt.jpeg)
 
 The app selection especially with brew is good. But, I miss the high quality apps that we get for free with linux. I have to fumble around reddit to find great free and opensource apps and ensure they won't lock me in. I have also observed that a lot of high-quality apps are subscription based which is an extra kicker.
 
